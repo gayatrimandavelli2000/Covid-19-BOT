@@ -13,5 +13,5 @@
 ------------------------------------------------------
 #### Download the Project https://github.com/gayatrimandavelli2000/TelegramBot
 #### Install Node Js : https://nodejs.org/en/download/
-#### Install NPM Modules using napm install Command
+#### Install NPM Modules using npm install Command
 #### Change the Bot Token 
