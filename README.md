@@ -1,4 +1,4 @@
-# TelegramBot
+#  COVID - 19 BOT
 
 ### It is a chat bot which tells the Covid-19 information based on some inputs like state,country,district,date etc..
 
